@@ -13,7 +13,7 @@
 - Deep Learning and Neural Network
 - Computational PDE (using MATLAB)
 - Vuepress
-- FLutter
+- Flutter
 - MCDM algorithms
 
 ### 👯 collaborate with me 
