@@ -2,7 +2,7 @@
 
 # Hi 👋 I am Vaishnudebi Dutta and Welcome to my Profile
  
-## 🔮 facts about me
+## 🔮 know about me
 📚 _I am a final year student enrolled in an Integrated MSc course in Mathematics and Computing_
 
 ### 🔭 work in progress
