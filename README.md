@@ -21,7 +21,7 @@
 
 ### ⚡ fun facts
 - Pronouns: [She/Her](http://pronoun.is/she)
-- Previous Summer Research Intern at [NISER,Bhubaneswar](http://www.niser.ac.in/sms/) on Real Analysis.
+- Previous Summer Research Intern 2019 at [NISER,Bhubaneswar](http://www.niser.ac.in/sms/) on Real Analysis.
 - Worked on deriving positive solutions of fourth order ODE with integral boundary conditions and operator equations.
 - I do video editing and photoshop works
 - I love to eat and explore new food.
