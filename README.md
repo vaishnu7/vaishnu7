@@ -17,7 +17,7 @@
 - MCDM algorithms
 
 ### 👯 collaborate with me 
-- Mainly Focing on Mathematics Research Project (DM Me on my social handle if you're interested or if you have any idea)
+- Mainly Focusing on Mathematics Research Project (DM Me if you're interested or if you have any idea)
 
 ### ⚡ fun facts
 - Pronouns: [She/Her](http://pronoun.is/she)
