@@ -7,7 +7,7 @@
 
 ### 🔭 work in progress
 - Mathematical Biology (Research Intern @IIT-Indore 2021)
-- Multi-Criteria Decision Making Algorithms
+- Applications of Multi-Criteria Decision Making Algorithms (e.g. TOPSIS, TODIM, hybrid algorithms such as fuzzy TOPSIS, fuzzy TODIM, etc.)
 
 ### 🌱 Learning:
 - Deep Learning and Neural Network
