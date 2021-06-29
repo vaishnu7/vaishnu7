@@ -7,7 +7,7 @@
 
 ### 🔭 work in progress
 - Mathematical Biology (Research Intern @IIT-Indore 2021)
-- Multi-Criteria Decision Making Algorithms, etc.
+- Multi-Criteria Decision Making Algorithms
 
 ### 🌱 Learning:
 - Deep Learning and Neural Network
