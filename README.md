@@ -6,7 +6,7 @@
 📚 _I am a final year student enrolled in an Integrated MSc course in Mathematics and Computing_
 
 ### 🔭 work in progress
-- Mathematical Biology / Ecological Model (Research Intern @IIT-Indore 2021)
+- Mathematical Biology (Research Intern @IIT-Indore 2021)
 - Multi-Criteria Decision Making Algorithms, etc.
 
 ### 🌱 Learning:
