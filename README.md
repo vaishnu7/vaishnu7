@@ -6,7 +6,6 @@
 📚 _I am a final year student enrolled in an Integrated MSc course in Mathematics and Computing_
 
 ### 🔭 work in progress
-- Mathematical Biology (Research Intern @[IIT-Indore](https://www.iiti.ac.in/) 2021)
 - Applications of Multi-Criteria Decision Making Algorithms 
 (e.g. TOPSIS, TODIM, hybrid algorithms such as fuzzy TOPSIS, fuzzy TODIM, etc.)
 - Sustainable Supplier Selection Problems
@@ -15,16 +14,17 @@
 ### 🌱 Learning:
 
 - Computational PDE (using MATLAB)
+- MCDM algorithms
 - Vuepress
 - Flutter
-- MCDM algorithms
 
 ### 👯 collaborate with me 
 - Mainly Focusing on Mathematics Modelling based or Multi-Criteria Decision Making (MCDM) based Research Project (DM Me if you're interested or if you have any idea)
 
 ### ⚡ fun facts
 - Pronouns: [She/Her](http://pronoun.is/she)
-- Previous Summer Research Intern 2019 at [NISER,Bhubaneswar](https://www.niser.ac.in/) on Real Analysis.
+- Summer Research Intern 2019 at [NISER,Bhubaneswar](https://www.niser.ac.in/) on Real Analysis.
+- Studies of Some Ecological and Chemical Systems Using Differential Equations (Research Intern @[IIT-Indore](https://www.iiti.ac.in/) 2021)
 - Worked on deriving positive solutions of fourth order ODE with integral boundary conditions and operator equations.
 - I do video editing and photoshop works
 - I love to eat and explore new food.
