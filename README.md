@@ -19,7 +19,7 @@
 - Flutter
 
 ### 👯 collaborate with me 
-- Mainly Focusing on Mathematics Modelling based or Multi-Criteria Decision Making (MCDM) based Research Project (DM Me if you're interested or if you have any idea)
+- Mainly Focusing on Mathematical Modelling based or Multi-Criteria Decision Making (MCDM) based Research Project (DM Me if you're interested or if you have any idea)
 
 ### ⚡ fun facts
 - Pronouns: [She/Her](http://pronoun.is/she)
