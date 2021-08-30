@@ -15,8 +15,7 @@
 
 - Computational PDE (using MATLAB)
 - MCDM algorithms
-- Vuepress
-- Flutter
+- Biological Modeling
 
 ### 👯 collaborate with me 
 - Mainly Focusing on Mathematical Modelling based or Multi-Criteria Decision Making (MCDM) based Research Project (DM Me if you're interested or if you have any idea)
