@@ -27,7 +27,7 @@
 - Worked on deriving positive solutions of fourth order ODE with integral boundary conditions and operator equations.
 - I do video editing and photoshop works
 - I love to eat and explore new food.
-- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 7 with around 13L views 🤯. And still contributing......
+- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 7 with around 15L views 🤯. And still contributing......
 - I had worked with [NYX Wolves](https://nyxwolves.com/) as a graphic designer, which is a Chennai based company.
 
 ### 📫 Reach Me
