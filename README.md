@@ -6,10 +6,8 @@
 📚 _I am a final year student enrolled in an Integrated MSc course in Mathematics and Computing_
 
 ### 🔭 work in progress
-- Applications of Multi-Criteria Decision Making Algorithms 
-(e.g. TOPSIS, TODIM, hybrid algorithms such as fuzzy TOPSIS, fuzzy TODIM, etc.)
-- Sustainable Supplier Selection Problems
-- Inventory Models
+- self-project
+- Mathematical Biology
 
 ### 🌱 Learning:
 
@@ -18,12 +16,13 @@
 - Biological Modeling
 
 ### 👯 collaborate with me 
-- Mainly Focusing on Mathematical Modelling based or Multi-Criteria Decision Making (MCDM) based Research Project (DM Me if you're interested or if you have any idea)
+- Mainly Focusing on Mathematical Modelling based Research Project (DM Me if you're interested or if you have any idea)
 
 ### ⚡ fun facts
 - Pronouns: [She/Her](http://pronoun.is/she)
 - Summer Research Intern 2019 at [NISER,Bhubaneswar](https://www.niser.ac.in/) on Real Analysis.
 - Studies of Some Ecological and Chemical Systems Using Differential Equations (Research Intern @[IIT-Indore](https://www.iiti.ac.in/) 2021)
+- My first ever co-authored and published journal titled: A Pythagorean Fuzzy Approach for Sustainable Supplier Selection Using TODIM (https://doi.org/10.1155/2021/4254894)
 - Worked on deriving positive solutions of fourth order ODE with integral boundary conditions and operator equations.
 - I do video editing and photoshop works
 - I love to eat and explore new food.
