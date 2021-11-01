@@ -6,7 +6,7 @@
 📚 _I am a final year student enrolled in an Integrated MSc course in Mathematics and Computing_
 
 ### 🔭 work in progress
-- self-project
+- Self-Project
 - Mathematical Biology
 
 ### 🌱 Learning:
