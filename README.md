@@ -6,8 +6,7 @@
 📚 _I am a final year student enrolled in an Integrated MSc course in Mathematics and Computing_
 
 ### 🔭 work in progress
-- Self-Project
-- Mathematical Biology
+- Mathematical Biology (Thesis)
 
 ### 🌱 Learning:
 
@@ -26,7 +25,8 @@
 - Worked on deriving positive solutions of fourth order ODE with integral boundary conditions and operator equations.
 - I do video editing and photoshop works
 - I love to eat and explore new food.
-- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 7 with around 17L views 🤯. And still contributing......
+- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 7 with around 20L views 🤯. And still contributing......
+- I had worked as a Quality Check Expert (Mathematics) at FreeCo Education Pvt. Lmt. (http://freeco.co.in/) 
 - I had worked with [NYX Wolves](https://nyxwolves.com/) as a graphic designer, which is a Chennai based company.
 
 ### 📫 Reach Me
