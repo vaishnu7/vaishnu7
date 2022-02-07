@@ -6,7 +6,7 @@
 📚 _I am a final year student enrolled in an Integrated MSc course in Mathematics and Computing_
 
 ### 🔭 work in progress
-- Mathematical Biology (Ecology in Particular) under the guidance of [Dr.Tandon](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=CD3WOv7WRoFXr3v4l9lMVSNcOmmzRvtkzHO8m%252b37NHw%253d)
+- Mathematical Biology (Ecology in Particular) under the guidance of [Dr. Abhinav Tandon](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=CD3WOv7WRoFXr3v4l9lMVSNcOmmzRvtkzHO8m%252b37NHw%253d)
 
 ### 🌱 Learning:
 
