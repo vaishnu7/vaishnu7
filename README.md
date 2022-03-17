@@ -25,7 +25,7 @@
 [Dr. Seshadev Padhi](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=KUuGv1sGz%252bkxAaqV42zDzQ%253d%253d) had presented our paper based on operator equations in 48th Annual Odisha Mathematical Society Conference 2021 [The entire lecture Can be found here](https://youtu.be/YdzX9cHqyew)
 - I do video editing and photoshop works
 - I love to eat and explore new food.
-- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 7 with around 22L views 🤯. And still contributing......
+- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 7 with around 24L views 🤯. And still contributing......
 - I had worked as a Quality Check Expert (Mathematics) at [FreeCo Education Pvt. Lmt.](http://freeco.co.in/) 
 - I had worked with [NYX Wolves](https://nyxwolves.com/) as a graphic designer, which is a Chennai based company.
 
