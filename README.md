@@ -3,7 +3,7 @@
 # Hi 👋 I am Vaishnudebi Dutta and Welcome to my Profile
  
 ## 🔮 know about me
-📚 _I am a IMSc. graduate in Mathematics and Computing_
+📚 _I am an IMSc. graduate in Mathematics and Computing_
 
 ### 🔭 work in progress
 - Mathematical Biology (Ecology in Particular) under the guidance of [Dr. Abhinav Tandon](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=CD3WOv7WRoFXr3v4l9lMVSNcOmmzRvtkzHO8m%252b37NHw%253d)
