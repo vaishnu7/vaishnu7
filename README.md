@@ -6,8 +6,7 @@
 📚 _I am a PhD student in Engineering Mathematics at University of Bristol funded by EPSRC DTP. I did Integrated MSc. in Mathematics and Computing from Birla Institute of Technology, Mesra and I also have PG Cert. in Mathematics from the University of Glasgow_
 
 ### 🔭 Work in progress
-- Mathematical Biology (Ecology in Particular) under the guidance of [Dr. Abhinav Tandon]
-  (https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=CD3WOv7WRoFXr3v4l9lMVSNcOmmzRvtkzHO8m%252b37NHw%253d)
+- Mathematical Biology (Ecology in Particular) under the guidance of [Dr. Abhinav Tandon](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=CD3WOv7WRoFXr3v4l9lMVSNcOmmzRvtkzHO8m%252b37NHw%253d)
 
 ### 🌱 Learning:
 - Synthetic Biology
