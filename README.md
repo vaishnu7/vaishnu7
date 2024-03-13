@@ -6,12 +6,14 @@
 📚 _I am a PhD student in Engineering Mathematics at University of Bristol funded by EPSRC DTP. I did Integrated MSc. in Mathematics and Computing from Birla Institute of Technology, Mesra and I also have PG Cert. in Mathematics from the University of Glasgow_
 
 ### 🔭 Work in progress
+- Synthetic biology and control theory under the guidence of [Dr. Lucia Marucci](https://www.bristol.ac.uk/people/person/Lucia-Marucci-8de3a95c-6f5e-4c4a-9850-cba01fd70edd/)
 - Mathematical Biology (Ecology in Particular) under the guidance of [Dr. Abhinav Tandon](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=CD3WOv7WRoFXr3v4l9lMVSNcOmmzRvtkzHO8m%252b37NHw%253d)
 
 ### 🌱 Learning:
 - Synthetic Biology
 - Control theory
-- Computational ODE/PDE (using MATLAB)
+- Mathematical modeling
+- Computational ODE/PDE
 
 ### 👯 Collaborate with me 
 - Mainly Focusing on Mathematical Biology based Research Project (DM Me if you're interested or if you have any idea)
@@ -30,10 +32,10 @@
 - Studies of Some Ecological and Chemical Systems Using Differential Equations (Research Intern @[IIT-Indore](https://www.iiti.ac.in/) 2021)
 - I do video editing and photoshop works
 - I love to eat and explore new food.
-- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 8 with around 1.1Cr views 🤯. And still contributing......
+- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 8 with around 13M views 🤯. And still contributing......
 - I had worked as a Quality Check Expert (Mathematics) at [FreeCo Education Pvt. Lmt.](http://freeco.co.in/) 
 - I had worked with [NYX Wolves](https://nyxwolves.com/) as a graphic designer, which is a Chennai based company.
 
 ### 📫 Reach Me
 - Here's my [Twitter](https://twitter.com/VaishnudebiD) profile. [DM Me Anytime :D]
-- I upload study vlogs on my YT channel [Spoot Study](https://www.youtube.com/c/sprootstudy/)
+- I sometimes upload study vlogs on my YT channel [Spoot Study](https://www.youtube.com/c/sprootstudy/)
