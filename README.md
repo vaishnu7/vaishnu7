@@ -37,5 +37,5 @@
 - I had worked with [NYX Wolves](https://nyxwolves.com/) as a graphic designer, which is a Chennai based company.
 
 ### 📫 Reach Me
-- Here's my [Twitter](https://twitter.com/VaishnudebiD) profile. [DM Me Anytime :D]
+- Here's my [Twitter](https://twitter.com/VaishnudebiD) profile.
 - I sometimes upload study vlogs on my YT channel [Spoot Study](https://www.youtube.com/c/sprootstudy/)
