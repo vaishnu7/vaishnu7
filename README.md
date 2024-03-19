@@ -1,6 +1,6 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/39788520/120531675-85450500-c3fc-11eb-954a-c974afd8e7f0.gif)
 
-# Hi 👋 I am Vaishnudebi Dutta and Welcome to my Profile
+# Hi 👋 I am Vaishnu and welcome to my Profile
  
 ## 🔮 Know about me
 📚 _I am a PhD student in Engineering Mathematics at University of Bristol funded by EPSRC DTP. I did Integrated MSc. in Mathematics and Computing from Birla Institute of Technology, Mesra and I also have PG Cert. in Mathematics from the University of Glasgow_
@@ -18,7 +18,7 @@
 ### 👯 Collaborate with me 
 - Mainly Focusing on Mathematical Biology based Research Project (DM Me if you're interested or if you have any idea)
 
-### Research Experiences
+### 🍀 Research Experiences
 - My Integrated MSc. thesis is published in the form of a research article titled: [Implications of Agricultural Practices on Vegetation and Terrestrial Invertebrates in Riparian Zone: A Nonlinear Modelling](https://doi.org/10.1007/s40819-022-01471-6) under the guidance of [Dr. Abhinav Tandon](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=CD3WOv7WRoFXr3v4l9lMVSNcOmmzRvtkzHO8m%252b37NHw%253d)
 - My first ever co-authored and published research article under the guidance of [Dr. Prabjot Kaur](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=z5PlTUQipfIrDPKbDvYIycqSoz%252fhh9rIogtp9rk9haM%253d) titled: A Pythagorean Fuzzy Approach for Sustainable Supplier Selection Using TODIM (https://doi.org/10.1155/2021/4254894)
 - My first ever published first-authored research article under the guidance of [Dr. Prabjot Kaur](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=z5PlTUQipfIrDPKbDvYIycqSoz%252fhh9rIogtp9rk9haM%253d) titled: Comparative Analysis of TOPSIS and TODIM for the Performance Evaluation of Foreign Players in Indian Premier League (https://doi.org/10.1155/2022/9986137)
