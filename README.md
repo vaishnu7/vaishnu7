@@ -32,7 +32,7 @@
 - Studies of Some Ecological and Chemical Systems Using Differential Equations (Research Intern @[IIT-Indore](https://www.iiti.ac.in/) 2021)
 - I do video editing and photoshop works
 - I love to eat and explore new food.
-- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 8 with around 13M views 🤯. And still contributing......
+- I am a [Google Local Guide](https://maps.app.goo.gl/a7geJspjtsRiaWcB8), Level 8 with around 15M views 🤯. And still contributing......
 - I had worked as a Quality Check Expert (Mathematics) at [FreeCo Education Pvt. Lmt.](http://freeco.co.in/) 
 - I had worked with [NYX Wolves](https://nyxwolves.com/) as a graphic designer, which is a Chennai based company.
 
