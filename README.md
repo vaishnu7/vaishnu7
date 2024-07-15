@@ -11,6 +11,7 @@
 
 ### 🌱 Learning:
 - Cybergenetics
+- Machine Learning
 - Control theory
 - Mathematical modeling
 - Computational ODE/PDE
