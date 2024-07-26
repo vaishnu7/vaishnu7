@@ -6,7 +6,7 @@
 📚 _I am a PhD student in Engineering Mathematics at The University of Bristol funded by EPSRC DTP. I did Integrated MSc. in Mathematics and Computing from Birla Institute of Technology, Mesra and I also have PG Cert. in Mathematics from the University of Glasgow_
 
 ### 🔭 Work in progress
-- Synthetic biology and control theory under the guidence of [Dr. Lucia Marucci](https://www.bristol.ac.uk/people/person/Lucia-Marucci-8de3a95c-6f5e-4c4a-9850-cba01fd70edd/)
+- Synthetic biology, non-small cell lung cancer cells, image segmentation and control theory under the guidence of [Dr. Lucia Marucci](https://www.bristol.ac.uk/people/person/Lucia-Marucci-8de3a95c-6f5e-4c4a-9850-cba01fd70edd/)
 - Mathematical Biology (Ecology in Particular) under the guidance of [Dr. Abhinav Tandon](https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=CD3WOv7WRoFXr3v4l9lMVSNcOmmzRvtkzHO8m%252b37NHw%253d)
 
 ### 🌱 Learning:
